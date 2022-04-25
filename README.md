@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mostafa-gad-a92a3a140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mostafa-gad-a92a3a140/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mostafa-gad-a92a3a140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mostafa-gad-a92a3a140/" height="30" width="40" /></a>
 <a href="https://dribbble.com/https://dribbble.com/mostafa_gad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/mostafa_gad" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/graph-ix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/graph-ix" height="30" width="40" /></a>
 </p>
