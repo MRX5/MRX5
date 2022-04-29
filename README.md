@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mostafa Gad</h1>
 <h3 align="center">Android developer from Egypt</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrx5" alt="mrx5" /></a> </p>
-
 - 🌱 I’m currently learning **Android Development**
 
 - 📫 How to reach me **mostafa.mohamed.gad97@gmail.com**
